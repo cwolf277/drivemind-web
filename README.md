@@ -2,7 +2,7 @@
 
 Hands-free voice note-taking for drivers — say **"Hey DriveMind"** and just talk. Notes are transcribed by OpenAI Whisper, structured into title / summary / tags / mood, and stored in Firebase (or browser localStorage when Firebase isn't configured). Built with React + Vite, runs in any modern browser.
 
-**Live demo:** _coming soon — auto-deployed via GitHub Pages_
+**🚀 Live demo:** **[cwolf277.github.io/drivemind-web](https://cwolf277.github.io/drivemind-web/)**
 
 > ⚠️ The live demo runs the full UI but transcription requires an `OPENAI_API_KEY`. Clone and run locally to enable voice features end-to-end.
 
